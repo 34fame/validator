@@ -1,6 +1,6 @@
 {
    "name": "@34fame/validator",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Form field validation library for React",
    "author": "tmoreland",
    "license": "MIT",
