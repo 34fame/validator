@@ -76,6 +76,10 @@ const App = () => {
 export default App
 ```
 
+## Examples Site
+
+You can see `validator` at work [here](https://34fame.github.io/validator/)
+
 ## Contributors
 
 <a href="https://github.com/34fame/validator/graphs/contributors"></a>
