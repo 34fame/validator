@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "@34fame/validator": {
+      "signature": "de62efe3db6061667c2fcc52276c16e3",
+      "file": true,
+      "replaced": "file:.."
+    }
+  }
+}

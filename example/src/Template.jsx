@@ -1,6 +1,7 @@
 import React from 'react'
 import { Box, Container } from '@material-ui/core'
 
+import TitlePage from './TitlePage'
 import Example1 from './Example1'
 import Example2 from './Example2'
 import Example3 from './Example3'
@@ -11,6 +12,9 @@ const Template = () => {
    return (
       <Box mx={4}>
          <Container maxWidth="md">
+            <Box>
+               <TitlePage />
+            </Box>
             <Box>
                <Example1 />
             </Box>
