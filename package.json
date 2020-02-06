@@ -63,5 +63,12 @@
    },
    "files": [
       "dist"
+   ],
+   "keywords": [
+      "validator",
+      "validation",
+      "react",
+      "field validation",
+      "field validator"
    ]
 }
