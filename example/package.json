@@ -3,6 +3,7 @@
    "homepage": "https://tmoreland.github.io/@34fame/validator",
    "version": "0.0.0",
    "license": "MIT",
+   "private": true,
    "dependencies": {
       "@34fame/validator": "link:..",
       "@material-ui/core": "^4.9.1",
