@@ -2,7 +2,7 @@
 
 > Form field validation library for React
 
-[![NPM](https://img.shields.io/npm/v/@34fame/validator.svg)](https://www.npmjs.com/package/@34fame/validator) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Downloads][downloads-image]][https://www.npmjs.com/package/@34fame/validator]
+[![NPM](https://img.shields.io/npm/v/@34fame/validator.svg)](https://www.npmjs.com/package/@34fame/validator) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 `validator` is a simple to use yet very powerful field validation library for React. Inspired by the efforts of [Dana Janoskova](https://github.com/DJanoskova) and her _How I tried to validate React forms (with hook)_ [article](https://itnext.io/how-i-tried-to-validate-react-forms-with-hooks-31634fc5385b).
 
